@@ -1,0 +1,4 @@
+f = double(imread('coins.png'));
+[height, width] = size(I);
+
+for 
